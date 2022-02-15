@@ -13,6 +13,7 @@ A hospital wants to determine whether there is any difference in the average Tur
    
 Analyze the data and determine whether there is any difference in average TAT among the different laboratories at 5% significance level.
  
+
 Minitab File: LabTAT.mtw
 
 # Hypothesis Testing Exercise
